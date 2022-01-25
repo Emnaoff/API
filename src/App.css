@@ -1,0 +1,14 @@
+.Card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap ;
+}
+
+.user-card {
+  margin-bottom: 30px;
+}
